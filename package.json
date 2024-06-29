@@ -1,0 +1,21 @@
+{
+  "name": "webcrawlerjs",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Learning to create a webcrawler in js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/closknight/WebCrawlerJS.git"
+  },
+  "author": "Carlos Caballero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/closknight/WebCrawlerJS/issues"
+  },
+  "homepage": "https://github.com/closknight/WebCrawlerJS#readme"
+}
