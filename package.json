@@ -9,7 +9,7 @@
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "jest": {
-    "transform" :{}
+    "transform": {}
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/closknight/WebCrawlerJS#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.1.0"
   }
 }
